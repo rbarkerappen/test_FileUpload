@@ -1,0 +1,7 @@
+*.pyc
+*sublime*
+*.swp
+.DS_Store
+._.DS_Store
+.idea
+local_settings.py
